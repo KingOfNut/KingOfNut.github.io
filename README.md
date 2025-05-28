@@ -4,7 +4,6 @@ Project for introduction to HTML5 coursera
 <html lang="vi">
 <head>
   <meta charset="UTF-8">
-  <title>Hẹ Hẹ Hẹ</title>
 </head>
 <body>
 
