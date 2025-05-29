@@ -1,5 +1,4 @@
-# KingOfNut.github.io
-Project for introduction to HTML5 coursera
+
 <!DOCTYPE html>
 <html lang="vi">
 <head>
